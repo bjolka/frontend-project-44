@@ -1,5 +1,4 @@
 #!/usr/bin/env node
+import PlayBrainGcd from '../src/games/gcd.js'
 
-import findgcd from '../games/gcd.js';
-
-findgcd()
+PlayBrainGcd()
